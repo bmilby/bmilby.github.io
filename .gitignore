@@ -1,0 +1,25 @@
+*.DS_Store
+version.info
+*.log
+*.pyc
+.idea/
+*.iml
+__pycache__
+.cache
+*.egg-info
+dist/
+metastore_db/
+build/
+
+
+
+## Data Files
+#*.csv
+#*.xlsx
+#*.json
+#*.pdf
+#*.png
+#*.zip
+#*.gz
+#*.twb
+#*.nb
